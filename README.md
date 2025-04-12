@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Aleem</h1>
-<h3 align="center">A Passionate Jr. Front End Developer | MERN STACK Developer | ML\AI Enthusiast From Pakistan.</h3>
+<h3 align="center">A Passionate MERN STACK Developer | ML\AI Enthusiast From Pakistan.</h3>
 
 
 		   	  	 🔥 **Software Developer grinding hard to make something cool**
